@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Godaeus
+- 👋 Hi, I’m Godaeus
 - 👀 I’m interested in video game development, AI Learning and cloud architecting
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me by email marcus@godaeus.com
+- 📫 How to reach me by email godaeus@gmail.com
 
 <!---
 Godaeus/Godaeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
