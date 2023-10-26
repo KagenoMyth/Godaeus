@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Godaeus
-- 👀 I’m interested in video game development, AI Learning and cloud architecting
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me by email godaeus@gmail.com
+- 👋 わが縄　ONYX
+- 👀 つきです
+- 🌱 現在、Python,　再ばせきゅりち、げむ開発尾学んでいます
+
+- 📫 godaeus@gmail.com、コムにメルしてください
 
 <!---
 Godaeus/Godaeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
